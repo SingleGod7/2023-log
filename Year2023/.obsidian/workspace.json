@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "554f0c24e2817f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b24c83f40da6f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b4256ab93d24a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGL/绘制一个三角形.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00c1841a034159cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c496acb03e19334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a931947ab158745a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c5e37f57be403fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aae0e3d05baa1e46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f87bda6b9c648b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8dd6e0a3e06515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147850aed5e5c43d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OpenGL/绘制一个三角形.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d0b471b11f5b172",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OpenGL/绘制一个三角形.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3474543c6fe4eb7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "613695a7b9d2a7be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OpenGL/绘制一个三角形.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2b4256ab93d24a39",
+  "lastOpenFiles": [
+    "Pasted image 20230103144918.png",
+    "OpenGL/绘制一个三角形.md",
+    "未命名.canvas",
+    "OpenGL/OpenGL基本概念以及第一个窗口.md",
+    "Cmake/官方文档笔记.md",
+    "Plan & Proceessing/Plan.md"
+  ]
+}
