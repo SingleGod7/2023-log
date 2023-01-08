@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b24c83f40da6f1",
+        "id": "e7718973246ce630",
         "type": "tabs",
         "children": [
           {
-            "id": "2b4256ab93d24a39",
+            "id": "d9178975a11372a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/绘制一个三角形.md",
+                "file": "OpenGL/入门/摄像机.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "f87bda6b9c648b35",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/绘制一个三角形.md",
+                "file": "OpenGL/入门/摄像机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/绘制一个三角形.md",
+                "file": "OpenGL/入门/摄像机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/绘制一个三角形.md"
+                "file": "OpenGL/入门/摄像机.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2b4256ab93d24a39",
+  "active": "d9178975a11372a3",
   "lastOpenFiles": [
-    "Pasted image 20230103144918.png",
-    "OpenGL/绘制一个三角形.md",
-    "未命名.canvas",
-    "OpenGL/OpenGL基本概念以及第一个窗口.md",
-    "Cmake/官方文档笔记.md",
-    "Plan & Proceessing/Plan.md"
+    "OpenGL/入门/处理键盘输入和鼠标输入.md",
+    "OpenGL/入门/摄像机.md",
+    "OpenGL/入门/变换.md",
+    "OpenGL/入门/坐标系统.md",
+    "OpenGL/未命名.md",
+    "aid/Pasted image 20230108174959.png",
+    "aid/Pasted image 20230108175031.png",
+    "Plan & Proceessing/Jan.md",
+    "Plan & Proceessing/Plan.md",
+    "OpenGL/入门/绘制一个三角形.md"
   ]
 }
