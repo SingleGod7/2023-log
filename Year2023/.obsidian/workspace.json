@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9178975a11372a3",
+            "id": "1f15911e1ee681a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/入门/摄像机.md",
+                "file": "Plan & Proceessing/Jan.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/入门/摄像机.md",
+                "file": "Plan & Proceessing/Jan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/入门/摄像机.md",
+                "file": "Plan & Proceessing/Jan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/入门/摄像机.md"
+                "file": "Plan & Proceessing/Jan.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9178975a11372a3",
+  "active": "1f15911e1ee681a5",
   "lastOpenFiles": [
-    "OpenGL/入门/处理键盘输入和鼠标输入.md",
-    "OpenGL/入门/摄像机.md",
+    "Plan & Proceessing/Plan.md",
+    "OpenGL/光照/基础光照.md",
+    "Plan & Proceessing/Jan.md",
+    "OpenGL/光照/颜色.md",
     "OpenGL/入门/变换.md",
     "OpenGL/入门/坐标系统.md",
-    "OpenGL/未命名.md",
-    "aid/Pasted image 20230108174959.png",
-    "aid/Pasted image 20230108175031.png",
-    "Plan & Proceessing/Jan.md",
-    "Plan & Proceessing/Plan.md",
-    "OpenGL/入门/绘制一个三角形.md"
+    "aid/Pasted image 20230112203154.png",
+    "aid/Pasted image 20230112142339.png",
+    "OpenGL/入门/摄像机.md",
+    "OpenGL/入门/着色器.md"
   ]
 }
