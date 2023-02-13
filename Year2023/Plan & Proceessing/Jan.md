@@ -26,8 +26,21 @@
 - Opengl颜色和phong lighting model
 - 一些infdec
 1-13
-- infdec第一章所有内容和习题
+- infdec第0章所有内容和习题
 1-14
 - 8道算法题
 1-15
-- 
+- infdec
+- 算法
+1-16
+- infdec第一章第一节看完
+- 经济学十大原理
+
+Jan 总结：
+- 经济学 看完第一章和习题
+- 数学 infdec第一章第一节看完
+- 图形学 opengl第四章第二节
+- 算法 基础课第一节
+- DDCA 第一章
+- OS真相还原 环境配置
+- [] cs184 lecture

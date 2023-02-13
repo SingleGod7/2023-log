@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7718973246ce630",
+        "id": "6f7a885830ba8c09",
         "type": "tabs",
         "children": [
           {
-            "id": "1f15911e1ee681a5",
+            "id": "97dd27f87d1b60ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "16f5624c419ac489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "f87bda6b9c648b35",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Plan & Proceessing/Jan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Plan & Proceessing/Jan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Plan & Proceessing/Jan.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16f5624c419ac489",
+  "active": "97dd27f87d1b60ca",
   "lastOpenFiles": [
+    "未命名.md",
+    "infdec/第一章勘误.md",
     "Plan & Proceessing/Jan.md",
     "Plan & Proceessing/Plan.md",
-    "OpenGL/光照/基础光照.md",
-    "OpenGL/光照/颜色.md",
-    "OpenGL/入门/变换.md",
-    "OpenGL/入门/坐标系统.md",
-    "aid/Pasted image 20230112203154.png",
-    "aid/Pasted image 20230112142339.png",
-    "OpenGL/入门/摄像机.md",
-    "OpenGL/入门/着色器.md"
+    "OpenGL/高级OpenGL/模板测试.md",
+    "OpenGL/高级OpenGL/深度测试.md",
+    "aid/Pasted image 20230127003534.png",
+    "OpenGL/模型加载/模型.md",
+    "OpenGL/模型加载/网格.md",
+    "OpenGL/光照/多光源.md"
   ]
 }
